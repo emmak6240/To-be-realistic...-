@@ -1,2 +1,3 @@
-# To-be-realistic...-
-Sometimes you have a load of things to do from schooling to work to personal life. Generating a calendar tracker could allow you to input your schedule (i.e: finish this assignment, cleaning up the apartment, working out, etc).  without severe commitment and ease
+# To-be-realistic...
+Sometimes you might want to do every single task/opportunity available, to the point where you spread yourself too thin; there's a lot of "I want to do it; I have to do this; I need to do this", but realistically, are you able to do it... (Let's ask ourselves about that. Obviously, you have obligations and you need a life, so maybe generating a schedule planner that can be modified to your needs and desires might be the best of both worlds rather than putting in time-blocks on your commitments?
+
